@@ -1,0 +1,6 @@
+folder: problem
+samples:
+    - cases: '[1..1]'
+title:
+    en: Graph Traversal 80d3
+version: 2
